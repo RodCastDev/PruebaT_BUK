@@ -3,6 +3,7 @@ import HomePage from "../pages/HomePage";
 describe('Booking-Wingo', function(){
     
     this.beforeEach(function(){
+        
         cy.clearAllCookies()
         HomePage.visit();
         cy.get('#ibeTab').should('be.visible');
