@@ -24,6 +24,7 @@ class HomePage{
         for (let index = 0; index < cantidad; index++) {
           cy.get('.passenger:contains("Adultos") .plus').click({force: true});
         }
+        
       };
     
 }
