@@ -1,4 +1,5 @@
-## PRUEBA TECNICA BUK
+## PRUEBA TECNICA DOUBLE V PARTNERS
+
 ### INTRODUCCIÓN 
 En este proyecto se presenta el desarrollo de la prueba técnica para candidatos al cargo de QA Junior, en la cual después de evaluar las funciones de la página y se seleccionan algunos casos de prueba para validar el correcto funcionamiento, de esta forma se verifican atributos de calidad.
 
